@@ -5,9 +5,9 @@
 echo "precondition: create project 'hello-world-app' in gitlab"
 echo "The default user is 'root' and the pw is shown above"
 
-TARGETFOLDER=~/Development
+TARGETFOLDER=~/Projects
 GITLAB_USER=root
-GITLAB_PW=12345678
+GITLAB_PW=*********
 
 createProjectAndCommitToGitLab(){
 	local projectName=$1
