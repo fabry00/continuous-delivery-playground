@@ -1,0 +1,7 @@
+http://www.damagehead.com/docker-gitlab/
+https://peteris.rocks/blog/docker-gitlab-and-gitlab-ci/
+https://blog.iliyan-trifonov.com/how-to-install-and-configure-gitlab-inside-a-docker-container-the-ready-made-edition/
+
+https://raw.githubusercontent.com/sameersbn/docker-gitlab/master/docker-compose.yml
+https://docs.docker.com/engine/userguide/networking/
+https://coderwall.com/p/ewk0mq/stop-remove-all-docker-containers
